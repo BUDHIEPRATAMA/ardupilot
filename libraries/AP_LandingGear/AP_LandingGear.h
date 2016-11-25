@@ -10,9 +10,8 @@
 
 // Gear command modes
 enum LandingGearCommandMode {
-    LandingGear_Deploy,
-    LandingGear_Auto,
-    LandingGear_Retract
+    LGR_SERVO_DEPLOY,
+    LGR_SERVO_RTRACT,
 };
 
 /// @class	AP_LandingGear
