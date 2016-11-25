@@ -1,0 +1,6 @@
+enum 
+LandingGearCommandMode {
+    LandingGear_Deploy,
+    LandingGear_Auto,
+    LandingGear_Retract
+};
